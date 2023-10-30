@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd" >
 <configuration>
-   <!-- SqlSessionTemplate 생성 시 적용될 설정 작성 부분 -->
+   <!-- SqlSessionTemplate 생성 시 적용될 설정 작성부분 -->
    <settings>
       <!-- insert 또는 update에 사용되는 값 중 null이 있을 경우에 대한 설정 
          해당 설정이 없을 경우 -> SQL 구문에 null 포함되어 있다는 오류 발생. 
